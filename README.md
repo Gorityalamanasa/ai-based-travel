@@ -1,8 +1,19 @@
 # AI-Based Travel Itinerary Planner
 
-WanderPlan AI is a full-stack travel planning application built with the MERN stack. It uses the Groq LLM API to generate personalized, destination-specific, day-wise travel itineraries based on the user’s destination, travel dates, budget, travel type, and interests.
+AI-Based Travel Itinerary Planner is a full-stack travel planning application built with the MERN stack. It uses the Groq LLM API to generate 
+personalized, destination-specific, day-wise travel itineraries based on the user’s destination, travel dates, budget, travel type, and interests.
 
 The application also provides secure user authentication, protected routes, trip history management, budget breakdowns, cost-saving suggestions, and user-specific access to saved itineraries.
+
+---
+
+## 🌐 Live Demo
+
+👉 https://ai-based-travel-itinerary.vercel.app/
+
+## 📂 GitHub Repository
+
+👉 https://github.com/Gorityalamanasa/ai-based-travel
 
 ---
 
@@ -28,7 +39,7 @@ The application also provides secure user authentication, protected routes, trip
 - React.js
 - React Router DOM
 - Axios
-- HTML5 and CSS3
+- HTML5 and CSS
 - Create React App
 
 ### Backend
@@ -408,7 +419,6 @@ Add project screenshots to a `screenshots` folder and update the paths below.
 
 **Gorityala Manasa**
 
-- B.E. Information Science and Engineering
 - BMS Institute of Technology and Management
 
 ---
